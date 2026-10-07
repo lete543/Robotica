@@ -10,3 +10,4 @@ Conquistando o segundo lugar regional no meu primeiro ano de competição.
 Um dos vídeos iniciais do protótipo
 https://github.com/user-attachments/assets/f61caf8d-f54a-4de2-903b-f74320ddf9c6
 
+Os códigos disponibilizados são uma versão intermediária desenvolvida no começo de 2019, utilizando conceitos de orientação á objeto, sendo o main o código principal e os outras funcionalidades agregadas. Adicionalmente um código PID segue faixa comentado que não faz parte do conjunto.
